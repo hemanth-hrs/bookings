@@ -21,10 +21,10 @@ To clone a GitHub repository to your local machine, follow these steps:
 
 1. Open your terminal or command prompt.
 2. Change your current working directory to the location where you want to clone the repository.
-3. Use the `git clone` command followed by the repository URL. For example:
+3. Use the `git clone` command followed by the repository URL.
 
    ```shell
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/hemanth-hrs/bookings.git
 
 
 ### Uploading the data files:
