@@ -16,7 +16,7 @@ We are using Databricks Community Edition for Execution.
 5. Optionally, specify advanced options like libraries and environment variables.
 6. Click on the "Create Cluster" button to create your cluster.
 
-![this is a screenshot of the create cluster](../images/create_cluster.png)
+![this is a screenshot of the create cluster](images/create_cluster.png)
 
 ### Cloning the Repository to local:
 To clone a GitHub repository to your local machine, follow these steps:
