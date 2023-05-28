@@ -16,6 +16,8 @@ We are using Databricks Community Edition for Execution.
 5. Optionally, specify advanced options like libraries and environment variables.
 6. Click on the "Create Cluster" button to create your cluster.
 
+![this is a screenshot of the create cluster](../images/create_cluster.png)
+
 ### Cloning the Repository to local:
 To clone a GitHub repository to your local machine, follow these steps:
 
@@ -38,6 +40,8 @@ To upload data from a local folder to the "/Filestore/Tables/" directory in the 
 6. Wait for the upload to complete.
 7. Once the upload finishes, the files will be available in the selected folder under "/Filestore/Tables/".
 
+![this is a screenshot of the data upload](../images/data_upload.png)
+
 ### Uploading script file to Databricks:
 To upload a .ipynb file to Databricks Workspace, follow these steps:
 
@@ -48,6 +52,8 @@ To upload a .ipynb file to Databricks Workspace, follow these steps:
 5. Wait for the upload to complete.
 6. Once the upload is finished, you will see the .ipynb file in the selected folder within the Databricks Workspace.
 
+![this is a screenshot of the uploading script](../images/notebook_upload.png)
+
 ### Run the Script:
 To run a notebook in Databricks Community Edition, follow these steps:
 
@@ -56,6 +62,8 @@ To run a notebook in Databricks Community Edition, follow these steps:
 3. Click on the notebook to open it.
 4. In the notebook editor, click on the "Run All" button or use the shortcut "Ctrl + Enter" to run all cells in the notebook.
 5. Wait for the notebook execution to complete.
+
+![this is a screenshot of the run script](../images/run_notebook.png)
 
 
 
