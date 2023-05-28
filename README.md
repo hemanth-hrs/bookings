@@ -48,7 +48,15 @@ To upload a .ipynb file to Databricks Workspace, follow these steps:
 5. Wait for the upload to complete.
 6. Once the upload is finished, you will see the .ipynb file in the selected folder within the Databricks Workspace.
 
-### 
+### Run the Script:
+To run a notebook in Databricks Community Edition, follow these steps:
+
+1. Navigate to the Databricks Community Edition workspace homepage.
+2. Select the notebook you want to run from the list of available notebooks.
+3. Click on the notebook to open it.
+4. In the notebook editor, click on the "Run All" button or use the shortcut "Ctrl + Enter" to run all cells in the notebook.
+5. Wait for the notebook execution to complete.
+
 
 
 
