@@ -16,6 +16,44 @@ We are using Databricks Community Edition for Execution.
 5. Optionally, specify advanced options like libraries and environment variables.
 6. Click on the "Create Cluster" button to create your cluster.
 
+### Cloning the Repository to local:
+To clone a GitHub repository to your local machine, follow these steps:
+
+1. Open your terminal or command prompt.
+2. Change your current working directory to the location where you want to clone the repository.
+3. Use the `git clone` command followed by the repository URL. For example:
+
+   ```shell
+   git clone https://github.com/username/repository.git
+
+
+### Uploading the data files:
+To upload data from a local folder to the "/Filestore/Tables/" directory in the Databricks data section, follow these steps:
+
+1. Navigate to the Databricks data section.
+2. Create or select the target folder where you want to upload the data.
+3. Click on the "Upload" button.
+4. Choose the files or the entire local folder to upload.
+5. Start the upload process by clicking "Upload" or "Open".
+6. Wait for the upload to complete.
+7. Once the upload finishes, the files will be available in the selected folder under "/Filestore/Tables/".
+
+### Uploading script file to Databricks:
+To upload a .ipynb file to Databricks Workspace, follow these steps:
+
+1. Navigate to the Databricks Workspace homepage.
+2. Select the folder where you want to upload the .ipynb file or create a new folder.
+3. Click on the "Upload" button.
+4. Choose the .ipynb file from your local computer.
+5. Wait for the upload to complete.
+6. Once the upload is finished, you will see the .ipynb file in the selected folder within the Databricks Workspace.
+
+### 
+
+
+
+
+
 
 
 
